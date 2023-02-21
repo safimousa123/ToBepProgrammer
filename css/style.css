@@ -18,3 +18,10 @@
   border: 1px solid black;
   box-shadow: 3px 3px #000000a3;
 }
+@media screen and (max-width: 749px) {
+  .myImg {
+    width: 100%;
+    margin-top: 8px;
+    box-shadow: 0 0 white;
+  }
+}
